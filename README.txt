@@ -1,12 +1,11 @@
 Deploy Static Website on AWS
 
-In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
+Website Endpoint:
+http://udacity-website-hari.s3-website-us-east-1.amazonaws.com
 
-The files included are: 
+Bucket Object via its S3 Object URL:
+https://udacity-website-hari.s3.amazonaws.com/index.html
 
-index.html - The Index document for the website.
-/img - The background image file for the website.
-/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
-/css - CSS files for the website.
-
+Distribution Domain Name:
+daqgfp3cqxm8d.cloudfront.net
 
